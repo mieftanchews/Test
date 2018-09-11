@@ -41,45 +41,45 @@ id,date,risk_score,rescaled_risk,name
 1,1530403200,43,,diabetes
 1,1533081600,43,,diabetes
 1,1535760000,43,,diabetes
-,1483228800,23,,hypertension
-,1485907200,23,,hypertension
-,1488326400,23,,hypertension
-,1491004800,23,,hypertension
-,1493596800,23,,hypertension
-,1496275200,23,,hypertension
-,1498867200,23,,hypertension
-,1501545600,23,,hypertension
-,1504224000,18,,hypertension
-,1506816000,18,,hypertension
-,1509494400,18,,hypertension
-,1512086400,18,,hypertension
-,1514764800,18,,hypertension
-,1517443200,16,,hypertension
-,1519862400,16,,hypertension
-,1522540800,16,,hypertension
-,1525132800,13,,hypertension
-,1527811200,13,,hypertension
-,1530403200,13,,hypertension
-,1533081600,13,,hypertension
-,1535760000,12,,hypertension
-,1483228800,2.3,,colon cancer
-,1485907200,2.3,,colon cancer
-,1488326400,2.3,,colon cancer
-,1491004800,2.3,,colon cancer
-,1493596800,2.3,,colon cancer
-,1496275200,1.3,,colon cancer
-,1498867200,1.3,,colon cancer
-,1501545600,1.3,,colon cancer
-,1504224000,1.3,,colon cancer
-,1506816000,1.3,,colon cancer
-,1509494400,1.3,,colon cancer
-,1512086400,1.3,,colon cancer
-,1514764800,1.3,,colon cancer
-,1517443200,1.3,,colon cancer
-,1519862400,1.3,,colon cancer
-,1522540800,1.3,,colon cancer
-,1525132800,1.3,,colon cancer
-,1527811200,1.3,,colon cancer
-,1530403200,1.3,,colon cancer
-,1533081600,1.3,,colon cancer
-,1535760000,1.3,,colon cancer
+1,1483228800,23,,hypertension
+1,1485907200,23,,hypertension
+1,1488326400,23,,hypertension
+1,1491004800,23,,hypertension
+1,1493596800,23,,hypertension
+1,1496275200,23,,hypertension
+1,1498867200,23,,hypertension
+1,1501545600,23,,hypertension
+1,1504224000,18,,hypertension
+1,1506816000,18,,hypertension
+1,1509494400,18,,hypertension
+1,1512086400,18,,hypertension
+1,1514764800,18,,hypertension
+1,1517443200,16,,hypertension
+1,1519862400,16,,hypertension
+1,1522540800,16,,hypertension
+1,1525132800,13,,hypertension
+1,1527811200,13,,hypertension
+1,1530403200,13,,hypertension
+1,1533081600,13,,hypertension
+1,1535760000,12,,hypertension
+1,1483228800,2.3,,colon cancer
+1,1485907200,2.3,,colon cancer
+1,1488326400,2.3,,colon cancer
+1,1491004800,2.3,,colon cancer
+1,1493596800,2.3,,colon cancer
+1,1496275200,1.3,,colon cancer
+1,1498867200,1.3,,colon cancer
+1,1501545600,1.3,,colon cancer
+1,1504224000,1.3,,colon cancer
+1,1506816000,1.3,,colon cancer
+1,1509494400,1.3,,colon cancer
+1,1512086400,1.3,,colon cancer
+1,1514764800,1.3,,colon cancer
+1,1517443200,1.3,,colon cancer
+1,1519862400,1.3,,colon cancer
+1,1522540800,1.3,,colon cancer
+1,1525132800,1.3,,colon cancer
+1,1527811200,1.3,,colon cancer
+1,1530403200,1.3,,colon cancer
+1,1533081600,1.3,,colon cancer
+1,1535760000,1.3,,colon cancer
